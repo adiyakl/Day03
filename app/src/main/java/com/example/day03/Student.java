@@ -1,7 +1,7 @@
 package com.example.day03;
 
 public class Student {
-    public static final String TABLE_STUDENT="student";
+    public static final String TABLE_STUDENT="Student";
     public static final String KEY_ID = "_id";
     public static final String NAME= "name";
     public static final String PARENT="parent_name";
